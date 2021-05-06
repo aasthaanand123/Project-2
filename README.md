@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the project](.images/screenshotcomponent.jpeg)
+![Screenshot of the project](screenshotcomponent.jpeg)
 
 ### Links
 
@@ -51,5 +51,5 @@ This was definitely alot easier since already had a structure in mind. This proj
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/aasthaanand123)
-- Twitter - [@yourusername](https://www.twitter.com/@Aastha92424004)
+- Frontend Mentor - [aasthaanand123](https://www.frontendmentor.io/profile/aasthaanand123)
+- Twitter - [@Aastha92424004](https://www.twitter.com/@Aastha92424004)
