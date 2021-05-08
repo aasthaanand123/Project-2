@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the project](screenshotcomponent.jpeg)
+![Screenshot](./images/screenshotcomponent.jpg)
 
 ### Links
 
