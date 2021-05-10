@@ -47,7 +47,7 @@ I reinforced the concepts of flexbox, CSS properties and HTMl tags.
 
 ### Continued development
 
-This was definitely alot easier since already had a structure in mind. This project really helped me revise the concepts.
+This was definitely alot easier since I already had a structure in mind. This project really helped me revise the concepts.
 
 ## Author
 
